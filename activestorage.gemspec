@@ -24,7 +24,4 @@ Gem::Specification.new do |s|
     "source_code_uri" => "https://github.com/rails/rails/tree/v#{version}/activestorage",
     "changelog_uri"   => "https://github.com/rails/rails/blob/v#{version}/activestorage/CHANGELOG.md"
   }
-
-  s.add_dependency "actionpack", version
-  s.add_dependency "activerecord", version
 end
