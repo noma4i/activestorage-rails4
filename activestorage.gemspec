@@ -3,7 +3,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = "activestorage"
-  s.version     = version
+  s.version     = "5.2" # Rails version 5.2 as this gem will be redundant
   s.summary     = "Local and cloud file storage framework."
   s.description = "Attach cloud and local files in Rails applications."
 
